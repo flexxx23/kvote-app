@@ -118,5 +118,4 @@ export default function TicketCalculator() {
   );
 }
 
-export default TicketCalculator;
 
